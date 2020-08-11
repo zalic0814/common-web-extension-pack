@@ -2,7 +2,7 @@
     "name": "common-web-extension-pack",
     "displayName": "Common Web Extension Pack",
     "description": "Zalic's Extension Pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ZalicYu",
     "icon": "icon.jpg",
     "repository": "git@github.com:zalic0814/common-web-extension-pack.git",
@@ -31,6 +31,10 @@
         "pkief.material-icon-theme",
         "esbenp.prettier-vscode",
         "sibiraj-s.vscode-scss-formatter",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint"
     ]
 }
