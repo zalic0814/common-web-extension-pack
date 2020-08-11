@@ -3,6 +3,7 @@
     "displayName": "Common Web Extension Pack",
     "description": "Zalic's Extension Pack",
     "version": "0.0.1",
+    "publisher": "ZalicYu",
     "icon": "icon.jpg",
     "repository": "git@github.com:zalic0814/common-web-extension-pack.git",
     "engines": {
@@ -11,7 +12,25 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+        "alefragnani.bookmarks",
+        "coenraads.bracket-pair-colorizer",
+        "viablelab.bracket-padder",
+        "aeschli.vscode-css-formatter",
+        "msjsdiag.debugger-for-chrome",
+        "editorconfig.editorconfig",
+        "donjayamanne.githistory",
+        "nhoizey.gremlins",
+        "vincaslt.highlight-matching-tag",
+        "xabikos.javascriptsnippets",
+        "ms-vscode.typescript-javascript-grammar",
+        "ritwickdey.live-sass",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "sibiraj-s.vscode-scss-formatter",
+        "wayou.vscode-todo-highlight"
     ]
 }
