@@ -1,0 +1,17 @@
+{
+    "name": "common-web-extension-pack",
+    "displayName": "Common Web Extension Pack",
+    "description": "Zalic's Extension Pack",
+    "version": "0.0.1",
+    "icon": "icon.jpg",
+    "repository": "git@github.com:zalic0814/common-web-extension-pack.git",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
